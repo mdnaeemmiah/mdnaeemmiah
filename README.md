@@ -24,6 +24,15 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnaeemmiah&show_icons=true&locale=en" alt="mdnaeemmiah" /></p>
 
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnaeemmiah&show_icons=true&locale=en&layout=compact" alt="mdnaeemmiah" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdnaeemmiah&show_icons=true&locale=en" alt="mdnaeemmiah" />
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md naeem islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md naeem islam" height="30" width="40" /></a>
